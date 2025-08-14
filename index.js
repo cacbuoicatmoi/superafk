@@ -2,7 +2,7 @@ require('./server'); // chạy web server để giữ online
 const mineflayer = require("mineflayer");
 
 const bot = mineflayer.createBot({
-  host: "116.98.236.145",
+  host: "116.98.230.227",
   port: 2007,
   username: "noledadenafkfarm",
   auth: "offline",
